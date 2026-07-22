@@ -1,6 +1,6 @@
 # Failed-Login Log Analyzer
 
-A lightweight Python tool that parses SSH authentication logs and flags IP addresses showing signs of brute-force login attempts — a common early indicator of an active attack against a server.
+A lightweight Python tool that parses SSH authentication logs and flags IP addresses showing signs of brute-force login attempts, a common early indicator of an active attack against a server.
 
 ## What It Does
 
